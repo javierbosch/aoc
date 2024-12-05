@@ -1,5 +1,5 @@
 # Advent of Code
 Most of my solutions are lazy Python. 
-I like list comprehension, recursion  `lambda` functions.
+I like list comprehension, recursion and `lambda` functions.
 
 One day I would like to do a language everyday, but maybe not this year.
